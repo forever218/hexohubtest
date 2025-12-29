@@ -12,6 +12,10 @@ background: url(0.png)
 publish_location: 山西省-太原市-尖草坪区
 ---
 
+{% note warning modern %}
+&nbsp; &nbsp; &nbsp; ⚠️⚠️⚠️该方法已不再安全，请勿使用！改进版方案参见{% btn 'https://2am.top/2025/12/22/Workers%E5%AE%9E%E7%8E%B0Api%E7%99%BD%E5%90%8D%E5%8D%95/',Workers实现Api白名单,far fa-hand-point-right,blue larger %}
+{% endnote %} 
+
 # 快速开始
 
 &nbsp; &nbsp; &nbsp; 之前有过一个文章AI摘要，是由tianligpt提供服务，后来不知道什么时候服务挂了，转到了[洪墨AI](https://ai.zhheo.com/docs/)。但是这个新的服务并不好用，摘要感觉蠢蠢的，而且有5000字的长度限制，我经常一篇文章（加上代码块的话）有1w多字，显然是不够的。

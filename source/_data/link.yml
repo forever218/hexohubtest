@@ -1,0 +1,46 @@
+# 友情链接数据
+# 格式：- name: 网站名称
+#   link: 网站链接
+#   avatar: 头像链接
+#   description: 网站描述
+#   tags: 标签列表
+
+# 技术类
+- name: Soulxyz
+  link: https://blog.soulxyz.top/
+  avatar: https://gcore.jsdelivr.net/gh/soulxyz/soulxyz.github.io@1.2/statics/img/head.jpg
+  description: 不要让时代的悲哀 成为你的悲哀
+
+
+- name: Sunboy
+  link: https://www.sunboy.ltd/
+  avatar: https://www.sunboy.ltd/img/about.jpg
+  description: 简单的我
+
+
+- name: 未来的回忆
+  link: https://2am.top
+  avatar: https://2am.top/images/0.gif
+  description: 自己也是自己的朋友！
+
+- name: CrazyWong
+  link: https://blog.crazywong.com/
+  avatar: https://blog.crazywong.com/pwa/android-chrome-192x192.png
+  description: Butterfly主题作者大大(●'◡'●)，太厉害啦！
+
+
+
+- name: Leonus
+  link: https://blog.leonus.cn/
+  avatar: https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5
+  description: 进一寸有进一寸的欢喜
+
+- name: 爱吃肉的猫
+  link: https://meuicat.com
+  avatar: https://z1.ax1x.com/2023/05/26/p9qChjI.jpg
+  description: 有猫有肉有生活
+
+- name: 樱花小镇
+  link: https://blog.sakura.vin
+  avatar: https://www.sakura.vin/favicon.ico
+  description: 小园新种红樱树，闲绕花枝便当游
